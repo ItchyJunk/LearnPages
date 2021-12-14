@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to ItchyJunk's GitHub Pages
+
+I will slowly remove the instructions below as I learn more. Eventually, I hope to do writeup's of things i am learning here.
 
 You can use the [editor on GitHub](https://github.com/ItchyJunk/LearnPages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
