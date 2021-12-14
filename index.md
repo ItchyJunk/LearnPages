@@ -2,6 +2,13 @@
 
 I will slowly remove the instructions below as I learn more. Eventually, I hope to do writeup's of things i am learning here.
 
+The following is an attempt to hilight a block of code:
+``` 
+  NaturalNumbers :: [Int]
+  NaturalNumbers = 1 : map (+ 1) natList
+```
+
+
 You can use the [editor on GitHub](https://github.com/ItchyJunk/LearnPages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
