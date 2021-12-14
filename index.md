@@ -9,7 +9,7 @@ The following is an attempt to hilight a block of code:
 ```
 
 The following should be a self refrential url:
-[Link](https://itchyjunk.github.io/LearnPages/)
+[Hyperlink to self.](https://itchyjunk.github.io/LearnPages/)
 
 You can use the [editor on GitHub](https://github.com/ItchyJunk/LearnPages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
